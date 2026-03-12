@@ -103,5 +103,4 @@ Click this URL to see the rendered email in your browser.
 _(Add your deployed URL here)_
 
 ## Screen Recording
-
-_(Add your Loom video link here)_
+https://drive.google.com/file/d/191buyQLvdc9_vNT00HvZR23o4HwzQCrw/view?usp=sharing
