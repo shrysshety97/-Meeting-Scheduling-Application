@@ -9,7 +9,7 @@ A full-stack meeting scheduling web application replicating the Climatiq x Tese 
 | Frontend | React.js + TypeScript + Tailwind CSS |
 | Backend | Node.js + Express + TypeScript |
 | Database | MongoDB + Mongoose |
-| Email | Nodemailer (Ethereal test mode by default) |
+| Email | Resend.com (Real Email Sending System) |
 
 ## Features
 
