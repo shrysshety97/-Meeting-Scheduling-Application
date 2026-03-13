@@ -18,7 +18,7 @@ A full-stack meeting scheduling web application replicating the Climatiq x Tese 
 - ✅ Timezone selector with automatic time conversion (UTC+05:00 to UTC+07:00)
 - ✅ Multi-step booking form with validation
 - ✅ Booking confirmation screen with celebration animation
-- ✅ Email notification (Ethereal test mode — preview URL logged to console)
+- ✅ Email notification - Resend.com(built Real email sending System)
 - ✅ Responsive design (mobile + desktop)
 - ✅ Admin bookings view at `/admin`
 - ✅ Rate limiting & duplicate booking prevention
@@ -70,13 +70,7 @@ The app will be available at:
 
 ## Email Testing
 
-When `EMAIL_USER` and `EMAIL_PASS` are not set, the app automatically uses **Ethereal** (a free email testing service). After submitting a booking, look in the server console for a line like:
-
-```
-📧 Email preview URL: https://ethereal.email/message/...
-```
-
-Click this URL to see the rendered email in your browser.
+Email notification - Resend.com(built Real email sending System) 
 
 ## API Endpoints
 
